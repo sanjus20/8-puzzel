@@ -1,0 +1,14 @@
+flask
+cd backend
+pip install flask-cors #if cors error occurs
+pip install -r requirements.txt
+python app.py
+flask-cors
+http://127.0.0.1:5000
+# Requirements for the backend application
+
+#to run again in terminal use these:
+#cd backend
+#venv\Scripts\activate
+#python app.py
+#open index.html with live server

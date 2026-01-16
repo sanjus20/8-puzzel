@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>8 Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>8 Puzzle</h1>
+
+<textarea id="input" rows="3" cols="10">
+1 2 3
+4 5 6
+7 8 0
+</textarea>
+<br>
+<button onclick="setPuzzle()">Set Puzzle</button>
+
+<div id="board"></div>
+
+<br>
+<button onclick="sendMove('up')">Up</button>
+<button onclick="sendMove('down')">Down</button>
+<button onclick="sendMove('left')">Left</button>
+<button onclick="sendMove('right')">Right</button>
+<br><br>
+<button onclick="solvePuzzle()">Solve</button>
+
+<script src="script.js"></script>
+</body>
+</html>
+
