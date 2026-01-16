@@ -11,9 +11,7 @@ A web-based 8-puzzle solver that allows you to **manually play** or **automatica
 3. [Folder Structure](#folder-structure)  
 4. [Backend Setup](#backend-setup-python-flask)  
 5. [Frontend Usage](#frontend-usage)  
-6. [How to Solve a Puzzle](#how-to-solve-a-puzzle)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
+6. [How to Solve a Puzzle](#how-to-solve-a-puzzle)
 
 ---
 
